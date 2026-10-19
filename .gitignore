@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+*.token_ring.bak
+*.token_ring_backup
+
+# Temporary extraction directories
+agy_token_ring_patch/
+agy_patch_clean/
+agy_inspect/
+temp/
+tmp/
+
+# Logs
+*.log
